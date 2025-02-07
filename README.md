@@ -1,4 +1,4 @@
-# Rsbuild Project
+# Rslib Project
 
 ## Setup
 
